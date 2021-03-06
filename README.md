@@ -1,4 +1,5 @@
 
+<img src="_imagem/icon.png" alt="code-like-a-girl">
 <h1>Beatriz de Souza</h1>
 <h2>Hi there 👋</h2>
 
