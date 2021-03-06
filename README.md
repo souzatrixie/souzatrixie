@@ -1,5 +1,4 @@
-<h1>Beatriz de Souza</h1>
-<h2>Hi, nerds 🖖🏻</h2>
+<h1>Hi, nerds 🖖</h1>
 
 <p>
   I´m a system development student and a technology enthusiast. <br/>
