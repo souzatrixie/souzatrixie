@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**souzatrixie/souzatrixie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Beatriz de Souza</h1>
+<h2>Hi there 👋</h2>
 
-Here are some ideas to get you started:
+<p>
+  I´m a system development student and a technology enthusiast. <br/>
+  I am interested in creating new things and solving problems using programmings. <br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Never Stop Learning 🚀<br/>
+</p>
+
+<p>
+  😊   I can help you with web programming. <br/>
+  💻   Looking for a job. <br/>
+  👧   About me: I love read every kind of books and watch tv series.
+</p>
