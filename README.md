@@ -4,7 +4,7 @@
 
 <p>
   I´m a system development student and a technology enthusiast. <br/>
-  I am interested in creating new things and solving problems using programmings. <br/><br/>
+  I am interested in creating new things and solving problems using programming. <br/><br/>
 
   Never Stop Learning 🚀<br/>
 </p>
