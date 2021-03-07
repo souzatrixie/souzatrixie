@@ -10,8 +10,8 @@ I am interested in creating new things and solving problems using programming. <
 - [x] HTML; </br>
 - [x] CSS; </br>
 - [x] PHP; </br>
-- [x] SQL </br>
-- [ ] JS. (studying) </br> 
+- [x] SQL; </br>
+- [ ] JS (studying). </br> 
 
 💻   Looking for a job. </br>
 👧   About me: I love to read every kind of books and watch tv series.
