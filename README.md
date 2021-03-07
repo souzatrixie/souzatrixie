@@ -1,11 +1,17 @@
-Hi, nerds 🖖
+# Hi, nerds 🖖
+***
 
+I´m a system development student and a technology enthusiast.
+I am interested in creating new things and solving problems using programming. 
 
-I´m a system development student and a technology enthusiast. <br/>
-I am interested in creating new things and solving problems using programming. <br/><br/>
+### Never Stop Learning 🚀
+***
 
-Never Stop Learning 🚀<br/>
-
-😊   I can help you with web programming, HTML, CSS, PHP, SQL and learning JS. <br/>
-💻   Looking for a job. <br/>
+😊   I can help you with web programming: 
+[x] HTML;
+[x] CSS;
+[x] PHP;
+[x] SQL
+[ ] JS. (studying) 
+💻   Looking for a job.
 👧   About me: I love to read every kind of books and watch tv series.
