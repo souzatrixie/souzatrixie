@@ -1,4 +1,4 @@
-![icon](https://user-images.githubusercontent.com/79018014/110254692-ed578c80-7f6e-11eb-9a1a-da62672423ec.png)
+### ![Fintechtocat](https://user-images.githubusercontent.com/79018014/110255334-e4b48580-7f71-11eb-82c4-6348e5b8cee1.png)
 
 # Hi, nerds 🖖
 
@@ -17,3 +17,4 @@ I am interested in creating new things and solving problems using programming. <
 
 💻   Looking for a job. </br>
 👧   About me: I love to read every kind of books and watch tv series.
+
