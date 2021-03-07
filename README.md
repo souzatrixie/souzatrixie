@@ -10,5 +10,5 @@
 <p>
   😊   I can help you with web programming, HTML, CSS, PHP, SQL and learning JS. <br/>
   💻   Looking for a job. <br/>
-  👧   About me: I love read every kind of books and watch tv series.
+  👧   About me: I love to read every kind of books and watch tv series.
 </p>
