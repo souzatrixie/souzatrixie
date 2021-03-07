@@ -1,5 +1,3 @@
-### ![Fintechtocat](https://user-images.githubusercontent.com/79018014/110255334-e4b48580-7f71-11eb-82c4-6348e5b8cee1.png)
-
 # Hi, nerds 🖖
 
 I´m a system development student and a technology enthusiast. </br>
