@@ -13,8 +13,7 @@ I am interested in creating new things and solving problems using programming. <
 - [x] SQL; </br>
 - [ ] JS (studying). </br> 
 
-💻 &nbsp; Looking for a job. </br>
-👧 &nbsp; About me: I love to read every kind of books and watch tv series. <br/>
+:computer: &nbsp; About me: I love to read every kind of books and watch tv series. <br/>
 :email: &nbsp; Get in touch with me:
 [![Linkedin Badge](https://img.shields.io/badge/-souzatrixie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souzatrixie/)](https://www.linkedin.com/in/souzatrixie/) 
 | 
