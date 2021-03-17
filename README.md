@@ -13,9 +13,9 @@ I am interested in creating new things and solving problems using programming. <
 - [x] SQL; </br>
 - [ ] JS (studying). </br> 
 
-💻   Looking for a job. </br>
-👧   About me: I love to read every kind of books and watch tv series.
-Get in touch with me:
+💻 &nbsp; Looking for a job. </br>
+👧 &nbsp; About me: I love to read every kind of books and watch tv series. <br/>
+:email: &nbsp; Get in touch with me: <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-souzatrixie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souzatrixie/)](https://www.linkedin.com/in/souzatrixie/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-biamoreirasouza2612@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:biamoreirasouza2612@hotmail.com)](mailto:biamoreirasouza2612@hotmail.com)
