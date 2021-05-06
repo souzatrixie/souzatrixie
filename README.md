@@ -1,3 +1,5 @@
+![octocat](https://github.com/souzatrixie/souzatrixie/blob/main/octocat.gif)
+***
 # Hello there 🖖
 
 I´m a system development student and a technology enthusiast. </br>
