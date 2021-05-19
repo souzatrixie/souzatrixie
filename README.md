@@ -12,7 +12,7 @@ I am interested in creating new things and solving problems using programming. <
 - [x] HTML; </br>
 - [x] CSS; </br>
 - [x] PHP; </br>
-- [x] SQL; </br>
+- [x] C; </br>
 - [ ] JS (studying). </br> 
 
 :computer: &nbsp; About me: I love to read every kind of books and watch tv series. <br/>
