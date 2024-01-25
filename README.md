@@ -6,7 +6,7 @@
     <span>Beatriz de Souza</span>
 </h1>
 
-<p align="justify">Applicaiton Developer from Campinas-SP, Brazil, graduating at Computer Science. I'm currently working at IBM, with hyperautomation - RPA. 
+<p align="justify">Applicaiton Developer from Campinas-SP, Brazil, graduating at Computer Science. I'm currently working at TR. 
 <br>
  Passionate about and technology, some of my hobbies are indie and story mode games, watching and reading.
 <br>
