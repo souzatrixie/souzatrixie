@@ -4,11 +4,13 @@
     <span>Beatriz de Souza</span>
 </h1>
 
-<p align="justify">Applicaiton Developer from Campinas-SP, Brazil, graduating at Computer Engineering I'm currently working as RPA intern at SiDi. 
+<p align="justify">Application Developer from Campinas-SP/Brazil, graduating at Computer Engineering.
+<br>
+I'm currently working as RPA intern at SiDi. 
 <br>
  Passionate about technology, some of my hobbies are indie and story mode games and psychological thriller books.
 <br>
-👩‍💻 Currently enrolled in Santander Bootcamp 2024 - AWS.
+👩‍💻 Currently enrolled in Santander Bootcamp 2024 - AWS and in WEBLAB(laboratory automation for remote controling).
 <h3 align="left">Connect with me</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:biamoreirasouza6@gmail.com)
