@@ -1,16 +1,15 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h1>
     <a href="https://elidianaandrade.github.io/">
-     <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
-    <span>Beatriz de Souza</span>
+[     <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+](url)    <span>Beatriz de Souza</span>
 </h1>
 
-<p align="justify">Applicaiton Developer from Campinas-SP, Brazil, graduating at Computer Science. I'm currently working at TR. 
+<p align="justify">Applicaiton Developer from Campinas-SP, Brazil, graduating at Computer Engineering I'm currently working as RPA intern at SiDi. 
 <br>
- Passionate about and technology, some of my hobbies are indie and story mode games, watching and reading.
+ Passionate about technology, some of my hobbies are indie and story mode games and psychological thriller books.
 <br>
-👩‍💻 Currently enrolled in Santander Bootcamp 2023 - Fullstack Java+Angular.
+👩‍💻 Currently enrolled in Santander Bootcamp 2024 - AWS.
 <h3 align="left">Connect with me</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:biamoreirasouza6@gmail.com)
@@ -29,7 +28,4 @@
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
- 
-  <div align="right">Made with 💜 by <a href="https://github.com/souzatrixie">BS</a>.</div>
-
 </details>
