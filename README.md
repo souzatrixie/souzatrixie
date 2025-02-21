@@ -15,7 +15,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=FF00F6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FF00F6)
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=FF00F6)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=FF00F6)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=FF00F6)
 ![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=FF00F6)
