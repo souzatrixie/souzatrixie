@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://elidianaandrade.github.io/">Beatriz Moreira</a>
+    <a href="https://elidianaandrade.github.io/">Beatriz Souza</a>
 </h1>
 
 <p align="center">
